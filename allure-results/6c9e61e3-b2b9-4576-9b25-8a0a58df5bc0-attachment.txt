@@ -1,0 +1,11 @@
+Component configuration:
+[Tab 'Properties'; config:
+[field:
+	label='RICHTEXT'
+	type='null'
+	value=Test Page Title'
+, field:
+	label='null'
+	type='RICHTEXT_FONT_FORMAT'
+	value=BOLD'
+]]

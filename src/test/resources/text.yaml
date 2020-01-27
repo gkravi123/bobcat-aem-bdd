@@ -1,0 +1,5 @@
+Properties:
+  - type: RICHTEXT
+    value: Bobcat test text
+  - type: RICHTEXT_FONT_FORMAT
+    value: BOLD

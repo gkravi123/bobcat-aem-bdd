@@ -1,0 +1,253 @@
+15:19:24.479 DEBUG com.cognifide.qa.bb.aem.core.modules.Aem65FullModule:39 - Configuring Bobcat module: Aem65FullModule
+15:19:24.564 DEBUG com.cognifide.qa.bb.aem.core.modules.AemLoginModule:42 - Configuring Bobcat module: AemLoginModule
+15:19:24.588 DEBUG com.cognifide.qa.bb.aem.core.modules.AemSitesAdminModule:47 - Configuring Bobcat module: AemSitesAdminModule
+15:19:24.593 DEBUG com.cognifide.qa.bb.aem.core.modules.SlingPageActionsModule:40 - Configuring Bobcat module: SlingPageActionsModule
+15:19:24.596 DEBUG com.cognifide.qa.bb.aem.core.modules.AemComponentModule:51 - Configuring Bobcat module: AemComponentModule
+15:19:24.610 DEBUG com.cognifide.qa.bb.aem.core.modules.AemSidePanelModule:39 - Configuring Bobcat module: AemSidePanelModule
+15:19:24.612 DEBUG com.cognifide.qa.bb.aem.core.modules.AemPageModule:40 - Configuring Bobcat module: AemPageModule
+15:19:24.614 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.DialogFieldsModule:54 - Configuring Bobcat module: DialogFieldsModule
+15:19:24.619 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:49 - Configuring Bobcat module: FieldsRegistryModule
+15:19:24.619 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:51 - Registering dialog fields...
+15:19:24.621 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: CHECKBOX [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultCheckbox]
+15:19:24.622 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: TEXTFIELD [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultTextfield]
+15:19:24.623 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: IMAGE [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultImage]
+15:19:24.623 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: PATHBROWSER [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultPathBrowser]
+15:19:24.624 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: SELECT [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultSelect]
+15:19:24.625 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: MULTIFIELD [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultMultifield]
+15:19:24.625 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: MULTIFIELD_ITEM [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultMultifieldItem]
+15:19:24.626 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RADIO_GROUP [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultRadioGroup]
+15:19:24.627 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RICHTEXT [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultRichText]
+15:19:24.628 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.RteOption]
+15:19:24.630 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_HYPERLINK [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.Hyperlink]
+15:19:24.631 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_LISTS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.Lists]
+15:19:24.632 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_PARAGRAPH_FORMATS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.ParagraphFormats]
+15:21:19.821 DEBUG com.cognifide.qa.bb.aem.core.modules.Aem65FullModule:39 - Configuring Bobcat module: Aem65FullModule
+15:21:19.890 DEBUG com.cognifide.qa.bb.aem.core.modules.AemLoginModule:42 - Configuring Bobcat module: AemLoginModule
+15:21:19.914 DEBUG com.cognifide.qa.bb.aem.core.modules.AemSitesAdminModule:47 - Configuring Bobcat module: AemSitesAdminModule
+15:21:19.921 DEBUG com.cognifide.qa.bb.aem.core.modules.SlingPageActionsModule:40 - Configuring Bobcat module: SlingPageActionsModule
+15:21:19.924 DEBUG com.cognifide.qa.bb.aem.core.modules.AemComponentModule:51 - Configuring Bobcat module: AemComponentModule
+15:21:19.937 DEBUG com.cognifide.qa.bb.aem.core.modules.AemSidePanelModule:39 - Configuring Bobcat module: AemSidePanelModule
+15:21:19.940 DEBUG com.cognifide.qa.bb.aem.core.modules.AemPageModule:40 - Configuring Bobcat module: AemPageModule
+15:21:19.942 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.DialogFieldsModule:54 - Configuring Bobcat module: DialogFieldsModule
+15:21:19.949 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:49 - Configuring Bobcat module: FieldsRegistryModule
+15:21:19.950 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:51 - Registering dialog fields...
+15:21:19.952 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: CHECKBOX [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultCheckbox]
+15:21:19.953 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: TEXTFIELD [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultTextfield]
+15:21:19.954 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: IMAGE [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultImage]
+15:21:19.955 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: PATHBROWSER [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultPathBrowser]
+15:21:19.955 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: SELECT [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultSelect]
+15:21:19.956 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: MULTIFIELD [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultMultifield]
+15:21:19.957 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: MULTIFIELD_ITEM [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultMultifieldItem]
+15:21:19.958 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RADIO_GROUP [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultRadioGroup]
+15:21:19.959 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RICHTEXT [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultRichText]
+15:21:19.960 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.RteOption]
+15:21:19.962 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_HYPERLINK [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.Hyperlink]
+15:21:19.963 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_LISTS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.Lists]
+15:21:19.964 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_PARAGRAPH_FORMATS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.ParagraphFormats]
+15:23:32.178 DEBUG com.cognifide.qa.bb.aem.core.modules.Aem65FullModule:39 - Configuring Bobcat module: Aem65FullModule
+15:23:32.261 DEBUG com.cognifide.qa.bb.aem.core.modules.AemLoginModule:42 - Configuring Bobcat module: AemLoginModule
+15:23:32.289 DEBUG com.cognifide.qa.bb.aem.core.modules.AemSitesAdminModule:47 - Configuring Bobcat module: AemSitesAdminModule
+15:23:32.296 DEBUG com.cognifide.qa.bb.aem.core.modules.SlingPageActionsModule:40 - Configuring Bobcat module: SlingPageActionsModule
+15:23:32.299 DEBUG com.cognifide.qa.bb.aem.core.modules.AemComponentModule:51 - Configuring Bobcat module: AemComponentModule
+15:23:32.312 DEBUG com.cognifide.qa.bb.aem.core.modules.AemSidePanelModule:39 - Configuring Bobcat module: AemSidePanelModule
+15:23:32.314 DEBUG com.cognifide.qa.bb.aem.core.modules.AemPageModule:40 - Configuring Bobcat module: AemPageModule
+15:23:32.316 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.DialogFieldsModule:54 - Configuring Bobcat module: DialogFieldsModule
+15:23:32.324 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:49 - Configuring Bobcat module: FieldsRegistryModule
+15:23:32.324 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:51 - Registering dialog fields...
+15:23:32.326 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: CHECKBOX [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultCheckbox]
+15:23:32.327 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: TEXTFIELD [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultTextfield]
+15:23:32.328 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: IMAGE [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultImage]
+15:23:32.329 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: PATHBROWSER [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultPathBrowser]
+15:23:32.330 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: SELECT [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultSelect]
+15:23:32.330 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: MULTIFIELD [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultMultifield]
+15:23:32.331 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: MULTIFIELD_ITEM [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultMultifieldItem]
+15:23:32.332 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RADIO_GROUP [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultRadioGroup]
+15:23:32.333 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RICHTEXT [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultRichText]
+15:23:32.334 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.RteOption]
+15:23:32.335 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_HYPERLINK [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.Hyperlink]
+15:23:32.336 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_LISTS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.Lists]
+15:23:32.337 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_PARAGRAPH_FORMATS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.ParagraphFormats]
+15:24:52.088 DEBUG com.cognifide.qa.bb.aem.core.modules.Aem65FullModule:39 - Configuring Bobcat module: Aem65FullModule
+15:24:52.218 DEBUG com.cognifide.qa.bb.aem.core.modules.AemLoginModule:42 - Configuring Bobcat module: AemLoginModule
+15:24:52.323 DEBUG com.cognifide.qa.bb.aem.core.modules.AemSitesAdminModule:47 - Configuring Bobcat module: AemSitesAdminModule
+15:24:52.335 DEBUG com.cognifide.qa.bb.aem.core.modules.SlingPageActionsModule:40 - Configuring Bobcat module: SlingPageActionsModule
+15:24:52.339 DEBUG com.cognifide.qa.bb.aem.core.modules.AemComponentModule:51 - Configuring Bobcat module: AemComponentModule
+15:24:52.364 DEBUG com.cognifide.qa.bb.aem.core.modules.AemSidePanelModule:39 - Configuring Bobcat module: AemSidePanelModule
+15:24:52.368 DEBUG com.cognifide.qa.bb.aem.core.modules.AemPageModule:40 - Configuring Bobcat module: AemPageModule
+15:24:52.371 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.DialogFieldsModule:54 - Configuring Bobcat module: DialogFieldsModule
+15:24:52.379 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:49 - Configuring Bobcat module: FieldsRegistryModule
+15:24:52.380 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:51 - Registering dialog fields...
+15:24:52.386 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: CHECKBOX [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultCheckbox]
+15:24:52.388 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: TEXTFIELD [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultTextfield]
+15:24:52.390 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: IMAGE [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultImage]
+15:24:52.391 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: PATHBROWSER [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultPathBrowser]
+15:24:52.391 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: SELECT [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultSelect]
+15:24:52.394 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: MULTIFIELD [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultMultifield]
+15:24:52.395 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: MULTIFIELD_ITEM [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultMultifieldItem]
+15:24:52.396 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RADIO_GROUP [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultRadioGroup]
+15:24:52.399 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RICHTEXT [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultRichText]
+15:24:52.402 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.RteOption]
+15:24:52.404 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_HYPERLINK [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.Hyperlink]
+15:24:52.405 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_LISTS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.Lists]
+15:24:52.406 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_PARAGRAPH_FORMATS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.ParagraphFormats]
+20:09:31.650 DEBUG com.cognifide.qa.bb.aem.core.modules.Aem65FullModule:39 - Configuring Bobcat module: Aem65FullModule
+20:09:31.733 DEBUG com.cognifide.qa.bb.aem.core.modules.AemLoginModule:42 - Configuring Bobcat module: AemLoginModule
+20:09:31.759 DEBUG com.cognifide.qa.bb.aem.core.modules.AemSitesAdminModule:47 - Configuring Bobcat module: AemSitesAdminModule
+20:09:31.764 DEBUG com.cognifide.qa.bb.aem.core.modules.SlingPageActionsModule:40 - Configuring Bobcat module: SlingPageActionsModule
+20:09:31.767 DEBUG com.cognifide.qa.bb.aem.core.modules.AemComponentModule:51 - Configuring Bobcat module: AemComponentModule
+20:09:31.781 DEBUG com.cognifide.qa.bb.aem.core.modules.AemSidePanelModule:39 - Configuring Bobcat module: AemSidePanelModule
+20:09:31.783 DEBUG com.cognifide.qa.bb.aem.core.modules.AemPageModule:40 - Configuring Bobcat module: AemPageModule
+20:09:31.786 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.DialogFieldsModule:54 - Configuring Bobcat module: DialogFieldsModule
+20:09:31.792 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:49 - Configuring Bobcat module: FieldsRegistryModule
+20:09:31.793 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:51 - Registering dialog fields...
+20:09:31.795 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: CHECKBOX [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultCheckbox]
+20:09:31.796 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: TEXTFIELD [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultTextfield]
+20:09:31.797 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: IMAGE [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultImage]
+20:09:31.797 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: PATHBROWSER [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultPathBrowser]
+20:09:31.798 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: SELECT [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultSelect]
+20:09:31.799 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: MULTIFIELD [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultMultifield]
+20:09:31.800 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: MULTIFIELD_ITEM [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultMultifieldItem]
+20:09:31.800 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RADIO_GROUP [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultRadioGroup]
+20:09:31.801 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RICHTEXT [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultRichText]
+20:09:31.802 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.RteOption]
+20:09:31.803 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_HYPERLINK [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.Hyperlink]
+20:09:31.805 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_LISTS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.Lists]
+20:09:31.806 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_PARAGRAPH_FORMATS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.ParagraphFormats]
+21:31:47.894 DEBUG com.cognifide.qa.bb.aem.core.modules.Aem65FullModule:39 - Configuring Bobcat module: Aem65FullModule
+21:31:48.010 DEBUG com.cognifide.qa.bb.aem.core.modules.AemLoginModule:42 - Configuring Bobcat module: AemLoginModule
+21:31:48.038 DEBUG com.cognifide.qa.bb.aem.core.modules.AemSitesAdminModule:47 - Configuring Bobcat module: AemSitesAdminModule
+21:31:48.045 DEBUG com.cognifide.qa.bb.aem.core.modules.SlingPageActionsModule:40 - Configuring Bobcat module: SlingPageActionsModule
+21:31:48.048 DEBUG com.cognifide.qa.bb.aem.core.modules.AemComponentModule:51 - Configuring Bobcat module: AemComponentModule
+21:31:48.069 DEBUG com.cognifide.qa.bb.aem.core.modules.AemSidePanelModule:39 - Configuring Bobcat module: AemSidePanelModule
+21:31:48.072 DEBUG com.cognifide.qa.bb.aem.core.modules.AemPageModule:40 - Configuring Bobcat module: AemPageModule
+21:31:48.074 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.DialogFieldsModule:54 - Configuring Bobcat module: DialogFieldsModule
+21:31:48.082 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:49 - Configuring Bobcat module: FieldsRegistryModule
+21:31:48.082 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:51 - Registering dialog fields...
+21:31:48.086 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: CHECKBOX [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultCheckbox]
+21:31:48.088 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: TEXTFIELD [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultTextfield]
+21:31:48.089 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: IMAGE [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultImage]
+21:31:48.090 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: PATHBROWSER [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultPathBrowser]
+21:31:48.090 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: SELECT [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultSelect]
+21:31:48.091 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: MULTIFIELD [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultMultifield]
+21:31:48.092 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: MULTIFIELD_ITEM [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultMultifieldItem]
+21:31:48.093 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RADIO_GROUP [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultRadioGroup]
+21:31:48.094 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RICHTEXT [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultRichText]
+21:31:48.095 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.RteOption]
+21:31:48.097 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_HYPERLINK [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.Hyperlink]
+21:31:48.098 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_LISTS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.Lists]
+21:31:48.100 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_PARAGRAPH_FORMATS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.ParagraphFormats]
+21:32:53.787 DEBUG com.cognifide.qa.bb.aem.core.modules.Aem65FullModule:39 - Configuring Bobcat module: Aem65FullModule
+21:32:53.868 DEBUG com.cognifide.qa.bb.aem.core.modules.AemLoginModule:42 - Configuring Bobcat module: AemLoginModule
+21:32:53.891 DEBUG com.cognifide.qa.bb.aem.core.modules.AemSitesAdminModule:47 - Configuring Bobcat module: AemSitesAdminModule
+21:32:53.896 DEBUG com.cognifide.qa.bb.aem.core.modules.SlingPageActionsModule:40 - Configuring Bobcat module: SlingPageActionsModule
+21:32:53.899 DEBUG com.cognifide.qa.bb.aem.core.modules.AemComponentModule:51 - Configuring Bobcat module: AemComponentModule
+21:32:53.912 DEBUG com.cognifide.qa.bb.aem.core.modules.AemSidePanelModule:39 - Configuring Bobcat module: AemSidePanelModule
+21:32:53.914 DEBUG com.cognifide.qa.bb.aem.core.modules.AemPageModule:40 - Configuring Bobcat module: AemPageModule
+21:32:53.917 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.DialogFieldsModule:54 - Configuring Bobcat module: DialogFieldsModule
+21:32:53.923 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:49 - Configuring Bobcat module: FieldsRegistryModule
+21:32:53.924 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:51 - Registering dialog fields...
+21:32:53.926 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: CHECKBOX [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultCheckbox]
+21:32:53.927 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: TEXTFIELD [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultTextfield]
+21:32:53.927 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: IMAGE [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultImage]
+21:32:53.928 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: PATHBROWSER [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultPathBrowser]
+21:32:53.929 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: SELECT [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultSelect]
+21:32:53.930 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: MULTIFIELD [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultMultifield]
+21:32:53.930 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: MULTIFIELD_ITEM [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultMultifieldItem]
+21:32:53.931 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RADIO_GROUP [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultRadioGroup]
+21:32:53.932 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RICHTEXT [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultRichText]
+21:32:53.933 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.RteOption]
+21:32:53.935 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_HYPERLINK [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.Hyperlink]
+21:32:53.936 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_LISTS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.Lists]
+21:32:53.937 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_PARAGRAPH_FORMATS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.ParagraphFormats]
+21:35:01.503 DEBUG com.cognifide.qa.bb.aem.core.modules.Aem65FullModule:39 - Configuring Bobcat module: Aem65FullModule
+21:35:01.581 DEBUG com.cognifide.qa.bb.aem.core.modules.AemLoginModule:42 - Configuring Bobcat module: AemLoginModule
+21:35:01.609 DEBUG com.cognifide.qa.bb.aem.core.modules.AemSitesAdminModule:47 - Configuring Bobcat module: AemSitesAdminModule
+21:35:01.614 DEBUG com.cognifide.qa.bb.aem.core.modules.SlingPageActionsModule:40 - Configuring Bobcat module: SlingPageActionsModule
+21:35:01.617 DEBUG com.cognifide.qa.bb.aem.core.modules.AemComponentModule:51 - Configuring Bobcat module: AemComponentModule
+21:35:01.631 DEBUG com.cognifide.qa.bb.aem.core.modules.AemSidePanelModule:39 - Configuring Bobcat module: AemSidePanelModule
+21:35:01.634 DEBUG com.cognifide.qa.bb.aem.core.modules.AemPageModule:40 - Configuring Bobcat module: AemPageModule
+21:35:01.636 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.DialogFieldsModule:54 - Configuring Bobcat module: DialogFieldsModule
+21:35:01.644 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:49 - Configuring Bobcat module: FieldsRegistryModule
+21:35:01.644 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:51 - Registering dialog fields...
+21:35:01.649 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: CHECKBOX [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultCheckbox]
+21:35:01.651 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: TEXTFIELD [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultTextfield]
+21:35:01.651 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: IMAGE [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultImage]
+21:35:01.652 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: PATHBROWSER [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultPathBrowser]
+21:35:01.653 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: SELECT [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultSelect]
+21:35:01.654 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: MULTIFIELD [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultMultifield]
+21:35:01.654 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: MULTIFIELD_ITEM [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultMultifieldItem]
+21:35:01.655 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RADIO_GROUP [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultRadioGroup]
+21:35:01.656 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RICHTEXT [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultRichText]
+21:35:01.657 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.RteOption]
+21:35:01.659 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_HYPERLINK [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.Hyperlink]
+21:35:01.660 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_LISTS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.Lists]
+21:35:01.661 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_PARAGRAPH_FORMATS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.ParagraphFormats]
+21:37:04.048 DEBUG com.cognifide.qa.bb.aem.core.modules.Aem65FullModule:39 - Configuring Bobcat module: Aem65FullModule
+21:37:04.117 DEBUG com.cognifide.qa.bb.aem.core.modules.AemLoginModule:42 - Configuring Bobcat module: AemLoginModule
+21:37:04.141 DEBUG com.cognifide.qa.bb.aem.core.modules.AemSitesAdminModule:47 - Configuring Bobcat module: AemSitesAdminModule
+21:37:04.147 DEBUG com.cognifide.qa.bb.aem.core.modules.SlingPageActionsModule:40 - Configuring Bobcat module: SlingPageActionsModule
+21:37:04.150 DEBUG com.cognifide.qa.bb.aem.core.modules.AemComponentModule:51 - Configuring Bobcat module: AemComponentModule
+21:37:04.168 DEBUG com.cognifide.qa.bb.aem.core.modules.AemSidePanelModule:39 - Configuring Bobcat module: AemSidePanelModule
+21:37:04.171 DEBUG com.cognifide.qa.bb.aem.core.modules.AemPageModule:40 - Configuring Bobcat module: AemPageModule
+21:37:04.209 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.DialogFieldsModule:54 - Configuring Bobcat module: DialogFieldsModule
+21:37:04.215 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:49 - Configuring Bobcat module: FieldsRegistryModule
+21:37:04.216 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:51 - Registering dialog fields...
+21:37:04.218 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: CHECKBOX [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultCheckbox]
+21:37:04.219 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: TEXTFIELD [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultTextfield]
+21:37:04.220 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: IMAGE [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultImage]
+21:37:04.221 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: PATHBROWSER [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultPathBrowser]
+21:37:04.222 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: SELECT [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultSelect]
+21:37:04.222 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: MULTIFIELD [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultMultifield]
+21:37:04.223 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: MULTIFIELD_ITEM [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultMultifieldItem]
+21:37:04.224 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RADIO_GROUP [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultRadioGroup]
+21:37:04.224 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RICHTEXT [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultRichText]
+21:37:04.226 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.RteOption]
+21:37:04.227 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_HYPERLINK [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.Hyperlink]
+21:37:04.228 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_LISTS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.Lists]
+21:37:04.230 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_PARAGRAPH_FORMATS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.ParagraphFormats]
+21:38:53.252 DEBUG com.cognifide.qa.bb.aem.core.modules.Aem65FullModule:39 - Configuring Bobcat module: Aem65FullModule
+21:38:53.333 DEBUG com.cognifide.qa.bb.aem.core.modules.AemLoginModule:42 - Configuring Bobcat module: AemLoginModule
+21:38:53.360 DEBUG com.cognifide.qa.bb.aem.core.modules.AemSitesAdminModule:47 - Configuring Bobcat module: AemSitesAdminModule
+21:38:53.365 DEBUG com.cognifide.qa.bb.aem.core.modules.SlingPageActionsModule:40 - Configuring Bobcat module: SlingPageActionsModule
+21:38:53.368 DEBUG com.cognifide.qa.bb.aem.core.modules.AemComponentModule:51 - Configuring Bobcat module: AemComponentModule
+21:38:53.381 DEBUG com.cognifide.qa.bb.aem.core.modules.AemSidePanelModule:39 - Configuring Bobcat module: AemSidePanelModule
+21:38:53.383 DEBUG com.cognifide.qa.bb.aem.core.modules.AemPageModule:40 - Configuring Bobcat module: AemPageModule
+21:38:53.385 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.DialogFieldsModule:54 - Configuring Bobcat module: DialogFieldsModule
+21:38:53.393 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:49 - Configuring Bobcat module: FieldsRegistryModule
+21:38:53.394 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:51 - Registering dialog fields...
+21:38:53.396 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: CHECKBOX [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultCheckbox]
+21:38:53.397 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: TEXTFIELD [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultTextfield]
+21:38:53.398 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: IMAGE [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultImage]
+21:38:53.399 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: PATHBROWSER [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultPathBrowser]
+21:38:53.400 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: SELECT [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultSelect]
+21:38:53.401 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: MULTIFIELD [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultMultifield]
+21:38:53.402 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: MULTIFIELD_ITEM [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultMultifieldItem]
+21:38:53.402 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RADIO_GROUP [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultRadioGroup]
+21:38:53.403 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RICHTEXT [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultRichText]
+21:38:53.406 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.RteOption]
+21:38:53.407 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_HYPERLINK [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.Hyperlink]
+21:38:53.408 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_LISTS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.Lists]
+21:38:53.409 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_PARAGRAPH_FORMATS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.ParagraphFormats]
+21:42:30.530 DEBUG com.cognifide.qa.bb.aem.core.modules.Aem65FullModule:39 - Configuring Bobcat module: Aem65FullModule
+21:42:30.598 DEBUG com.cognifide.qa.bb.aem.core.modules.AemLoginModule:42 - Configuring Bobcat module: AemLoginModule
+21:42:30.625 DEBUG com.cognifide.qa.bb.aem.core.modules.AemSitesAdminModule:47 - Configuring Bobcat module: AemSitesAdminModule
+21:42:30.632 DEBUG com.cognifide.qa.bb.aem.core.modules.SlingPageActionsModule:40 - Configuring Bobcat module: SlingPageActionsModule
+21:42:30.635 DEBUG com.cognifide.qa.bb.aem.core.modules.AemComponentModule:51 - Configuring Bobcat module: AemComponentModule
+21:42:30.648 DEBUG com.cognifide.qa.bb.aem.core.modules.AemSidePanelModule:39 - Configuring Bobcat module: AemSidePanelModule
+21:42:30.650 DEBUG com.cognifide.qa.bb.aem.core.modules.AemPageModule:40 - Configuring Bobcat module: AemPageModule
+21:42:30.653 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.DialogFieldsModule:54 - Configuring Bobcat module: DialogFieldsModule
+21:42:30.660 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:49 - Configuring Bobcat module: FieldsRegistryModule
+21:42:30.661 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:51 - Registering dialog fields...
+21:42:30.663 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: CHECKBOX [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultCheckbox]
+21:42:30.664 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: TEXTFIELD [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultTextfield]
+21:42:30.665 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: IMAGE [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultImage]
+21:42:30.665 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: PATHBROWSER [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultPathBrowser]
+21:42:30.666 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: SELECT [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultSelect]
+21:42:30.666 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: MULTIFIELD [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultMultifield]
+21:42:30.667 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: MULTIFIELD_ITEM [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultMultifieldItem]
+21:42:30.668 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RADIO_GROUP [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultRadioGroup]
+21:42:30.669 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RICHTEXT [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.DefaultRichText]
+21:42:30.670 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.RteOption]
+21:42:30.672 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_HYPERLINK [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.Hyperlink]
+21:42:30.673 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_LISTS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.Lists]
+21:42:30.674 DEBUG com.cognifide.qa.bb.aem.core.modules.fields.FieldsRegistryModule:72 - - registering field: RTE_OPTIONS_PARAGRAPH_FORMATS [class com.cognifide.qa.bb.aem.core.component.dialog.dialogfields.rte.ParagraphFormats]

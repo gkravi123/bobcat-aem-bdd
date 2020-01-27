@@ -1,0 +1,5 @@
+Properties:
+  - label: RICHTEXT
+             value: Test Page Title
+               - type: RICHTEXT_FONT_FORMAT
+                 value: BOLD
